@@ -1,0 +1,2 @@
+# mingcoin
+mingcoin
